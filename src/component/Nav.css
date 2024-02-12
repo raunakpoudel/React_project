@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav{
+    padding: 15px 10px;
+display: flex;
+/* background-color: antiquewhite; */
+align-items: center;
+justify-content: space-around;
+border-bottom: 1px solid black;
+}
+
+.nav2 ul li {
+    color: black;
+    list-style: none;
+    
+
+}
+
+.nav2>ul{
+    display: flex;
+    align-items: center;
+    padding-right: 15px;
+    gap: 50px;
+}
+
+
