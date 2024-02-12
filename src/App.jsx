@@ -1,6 +1,6 @@
 import React from 'react'
 import Nav from './component/Nav'
-import Hero from './component/Hero'
+import Hero from './component/hero'
 const App = () => {
   return (
     <>
