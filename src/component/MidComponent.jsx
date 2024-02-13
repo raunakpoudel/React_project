@@ -12,12 +12,12 @@ const MidComponent = () => {
 <h3>Hi,I am</h3> 
 <h1>Jeevan Poudel</h1>
 
-</div>
 <div id="button">
 
 <Button id='button'
 name='Explore Me'
 />
+</div>
 </div>
 
 </div>
