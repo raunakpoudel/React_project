@@ -8,9 +8,9 @@ const App = () => {
     <>
     <Nav/>
     <MidComponent/>
-    {/* <Button 
+    <Button 
        name="Click Me!"
-    /> */}
+    />
     
     
     
