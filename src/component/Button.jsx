@@ -5,7 +5,7 @@ const Button = (props) => {
     
     return (
     <>
-    <button><h2>{props.name}</h2></button>
+    <button class="button-87" role="button">{props.name}</button>
     </>
   )
 }

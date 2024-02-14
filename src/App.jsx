@@ -8,9 +8,13 @@ const App = () => {
     <>
     <Nav/>
     <MidComponent/>
+<<<<<<< HEAD
     <Button 
        name="Click Me!"
     />
+=======
+   
+>>>>>>> secondary
     
     
     
