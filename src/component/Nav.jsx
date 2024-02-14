@@ -1,33 +1,25 @@
 import React from 'react'
 import './Nav.css'
-import { IoIosContact } from "react-icons/io";
+import Button from './Button'
 const Nav = () => {
    
   return (
     <>
-    <div>
-   <div className="nav">
-    <h2>logo</h2>
-    <div className="nav2">
-        <ul>
-            <li> Home</li>
-            <li> About Us</li>
-            <li> Contact</li>
-        </ul>
-        
-
-    </div>
-    <div className="nav3">
-    <IoIosContact fontSize={'2rem'}/>
-    </div>
-   </div>
-
-
-    </div>
+   <div id="navbar">
+  <a href="#default" id="logo">CompanyLogo</a>
+  <div id="navbar-right">
+    <a class="active" href="#home">Home</a>
+    <a href="#contact">Contact</a>
+    <a href="#about">About</a>
+    <Button
+    name='sign in'
+    color='blue'
+    />
+  </div>
+</div>
     
+    </>)
     
-    </>
-  )
 }
 
 export default Nav

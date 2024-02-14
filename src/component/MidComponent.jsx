@@ -9,21 +9,16 @@ const MidComponent = () => {
 
 <div className="left">
 <div className="desc">
-<h3>Hi,I am</h3> 
-<h1>Jeevan Poudel</h1>
-
+  <h3>Hi,I am</h3> 
+  <h1>Jeevan Poudel</h1>
 </div>
 <div id="button">
-
-<Button id='button'
-name='Explore Me'
-/>
 </div>
 
 </div>
 
 <div className="right">
- <img src="https://as1.ftcdn.net/v2/jpg/05/88/95/34/1000_F_588953411_vnwqBXqcoGBaR9zTQKcq37FtjAEax50k.webp" alt="" />
+ {/* <img src="https://krea-ai.com/wp-content/uploads/2023/12/10-Creative-AI-Tools-Every-Creator-Should-Be-Using.png" alt="" /> */}
 </div>
 </div>
 </>
