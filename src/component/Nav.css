@@ -14,6 +14,7 @@
   /* Style the navbar links */
     /* height: calc(); */
   #navbar a {
+    gap: 20px;
     float: left;
     color: black;
     text-align: center;
@@ -26,6 +27,7 @@
   
   /* Style the logo */
   #navbar #logo {
+    gap: 45px;
     font-size: 35px;
     font-weight: bold;
     transition: 0.4s;

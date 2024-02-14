@@ -4,33 +4,10 @@ import Button from './Button'
 const MidComponent = () => {
   return (
     
-    <> <div className="box">
+    <> 
 
 
-<div className="left">
-<div className="desc">
-<<<<<<< HEAD
-<h3>Hi,I am</h3> 
-<h1>Jeevan Poudel</h1>
-
-=======
-  <h3>Hi,I am</h3> 
-  <h1>Jeevan Poudel</h1>
-</div>
->>>>>>> secondary
-<div id="button">
-</div>
-</div>
-<div>
-  
-</div>
-
-</div>
-
-<div className="right">
- {/* <img src="https://krea-ai.com/wp-content/uploads/2023/12/10-Creative-AI-Tools-Every-Creator-Should-Be-Using.png" alt="" /> */}
-</div>
-</div>
+    
 </>
   )
 }

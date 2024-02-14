@@ -7,19 +7,7 @@ const App = () => {
   return (
     <>
     <Nav/>
-    <MidComponent/>
-<<<<<<< HEAD
-    <Button 
-       name="Click Me!"
-    />
-=======
-   
->>>>>>> secondary
-    
-    
-    
-    
-    
+    <MidComponent/>    
     </>
   )
 }
